@@ -4,7 +4,7 @@ Trabajo final para la materia **Futuros Sustentables** de la Universidad Iberoam
 
 ## Propuesta
 
-PROA es un protocolo académico para incorporar límites socioambientales al proceso de Sales & Operations Planning (S&OP). La regla principal es la **doble viabilidad**: ningún escenario se aprueba si no cumple, al mismo tiempo, criterios operativos y socioambientales.
+PROA significa **Protocolo Regenerativo para Operaciones y Abastecimiento**. Es una propuesta académica para incorporar límites socioambientales al proceso de **Sales & Operations Planning (S&OP), o Planeación de Ventas y Operaciones**. La regla principal es la **doble viabilidad**: ningún escenario se aprueba si no cumple, al mismo tiempo, criterios operativos y socioambientales.
 
 El sitio incluye:
 
